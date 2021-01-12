@@ -7,7 +7,7 @@ Použitie je jednoduché:
 2. otvor konzolu,
 3. prilep kód do konzoly.
 
-### Konzola sa otvára
+### Ako otvoriť konzolu
 Klikni pravým tlačidlom myši a stlač Inspect element/Preskúmať prvok alebo jednoducšie stlač `F12` na klávesnici (pre Operu je to `Ctrl + Shift + I`). Ak ešte nie si v konzole, tak sa tam preklikni.
 
 ## Bugs
